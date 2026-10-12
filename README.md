@@ -104,6 +104,9 @@ Kaggle: eCommerce Events History in Electronics Store
 
 https://www.kaggle.com/datasets/mkechinov/ecommerce-events-history-in-electronics-store/data
 
+## Power Bi Desktop 
+https://app.powerbi.com/groups/me/reports/4af4526d-d96b-49fd-b96e-932f867f2f9f/b27f1b5e99e6003b39c9?experience=power-bi
+
 ##  Project Author
 
 **Shreya Pawar**
